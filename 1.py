@@ -11,6 +11,26 @@ print('a의 값은' , a)
 print('b의 값은' , b)
 print('a와 b의 합은' , a+b)
 
+# 3. ‘makit’ 곱하기 3
+
+a = 10
+b = 'makit'
+print(a * 3)
+print(b * 3)
+
+# 4. 하나 빼기, 하나 더하기 연산자
+
+m = 1
+print(m)
+m = m + 1
+print(m)
+m += 1
+print(m)
+m = m - 1
+print(m)
+m -= 1
+print(m)
+
 # 5. 몫 연산자(//)와 나머지 연산자(%)
 
 a = 30
