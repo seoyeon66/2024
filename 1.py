@@ -3,7 +3,7 @@
 print('makit "code" lab')
 print("she's gone")
 
-# 2.
+# 2. 숫자 저장하기
 
 a = 10
 b = 20
